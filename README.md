@@ -1,2 +1,2 @@
-BELAJAR GIT
-TOLONG DI PULL
+Sebelum melakukan running pastika semua library sudah terinstall semua
+
